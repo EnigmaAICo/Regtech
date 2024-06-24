@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/regtech/static/css/main.ae42ac5f.css",
+    "main.js": "/regtech/static/js/main.6d52585c.js",
+    "index.html": "/regtech/index.html",
+    "main.ae42ac5f.css.map": "/regtech/static/css/main.ae42ac5f.css.map",
+    "main.6d52585c.js.map": "/regtech/static/js/main.6d52585c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.6d52585c.js"
+  ]
+}
