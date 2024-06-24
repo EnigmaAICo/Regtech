@@ -13,7 +13,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
 });
-/** TEST */
+/** TEST TEST */
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
